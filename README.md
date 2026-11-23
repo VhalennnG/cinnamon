@@ -1,4 +1,4 @@
-# github-achieve
+# cinnamon
 
 A clean GitHub Profile Achievements tracker, CLI cheatsheet, and open collaboration hub.
 
