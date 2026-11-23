@@ -7,8 +7,8 @@ A clean GitHub Profile Achievements tracker, CLI cheatsheet, and open collaborat
 | Achievement | Criteria | Tiers | Status |
 | :--- | :--- | :--- | :--- |
 | **YOLO** | Merge a PR without code review | Single | Earned |
-| **Quickdraw** | Close an issue or PR within 5 minutes of opening | Single | Target |
-| **Pull Shark** | Merge pull requests | `2` / `16` / `128` / `1024` | Earned (Base) |
+| **Quickdraw** | Close an issue or PR within 5 minutes of opening | Single | Earned |
+| **Pull Shark** | Merge pull requests | `2` / `16` / `128` / `1024` | Earned (Base — 3+ merged PRs) |
 | **Pair Extraordinaire** | Co-author a commit in a merged PR | `1` / `10` / `24` / `48` | Needs collaborator |
 | **Galaxy Brain** | Have answers marked as accepted in Q&A Discussions | `2` / `8` / `16` / `32` | Needs collaborator |
 | **Starstruck** | Own a public repository with stars | `16` / `128` / `512` / `4096` | Needs stars |
